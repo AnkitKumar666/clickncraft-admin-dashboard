@@ -1,6 +1,6 @@
 # ClicknCraft Admin Dashboard
 
-![Admin Dashboard](https://img.shields.io/badge/React-18.2.0-blue)
+![Admin Dashboard](https://clickcraft-admin-dashboard.vercel.app/)
 
 A responsive admin dashboard built with React.js featuring data visualization and user management.
 
@@ -17,8 +17,9 @@ A responsive admin dashboard built with React.js featuring data visualization an
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/clickncraft-admin.git
+   git clone https://github.com/AnkitKumar666/clickcraft-admin-dashboard.git
 
 2. Open 
     ```bash
+    https://clickcraft-admin-dashboard.vercel.app/
     
