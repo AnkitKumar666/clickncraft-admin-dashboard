@@ -10,7 +10,7 @@ A responsive admin dashboard built with React.js featuring data visualization an
 - **Responsive Design** (mobile, tablet, desktop)
 - **Dark/Light Mode** toggle
 - **Data Tables** with pagination
-- **Role-based Access Control**
+- **Role-based Access Control** 
 - **Notification System**
 
 ## 🚀 Quick Start 
