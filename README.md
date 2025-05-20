@@ -13,7 +13,7 @@ A responsive admin dashboard built with React.js featuring data visualization an
 - **Role-based Access Control**
 - **Notification System**
 
-## 🚀 Quick Start
+## 🚀 Quick Start 
 
 1. Clone the repo:
    ```bash
