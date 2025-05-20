@@ -15,7 +15,7 @@ A responsive admin dashboard built with React.js featuring data visualization an
 
 ## 🚀 Quick Start 
 
-1. Clone the repo:
+1. Clone the repo: 
    ```bash
    git clone  https://github.com/AnkitKumar666/clickncraft-admin-dashboard.git
 
